@@ -1,0 +1,12 @@
+{
+    "name": "fcav/campeonato-boliche",
+    "description": "Software para controlar equipes do campeonato de boliche da FCAV",
+    "license": "proprietary",
+    "require": {
+        "cakephp/cakephp": "2.5.*",
+        "cakephp/debug_kit": "2.2.*"
+    },
+    "config": {
+        "vendor-dir": "Vendor/"
+    }
+}

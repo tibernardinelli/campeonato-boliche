@@ -1,0 +1,8 @@
+src/webroot/img/participants_pictures/
+src/tmp/
+src/Config/database.php
+.DS_Store
+.idea
+src/nbproject/private/
+src/Config/database.php
+/nbproject/private/
